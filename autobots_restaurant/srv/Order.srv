@@ -1,0 +1,9 @@
+string customer_name
+OrderItem[] items
+string order_type
+
+---
+bool success
+string message
+float32 total_price
+float32 estimated_time

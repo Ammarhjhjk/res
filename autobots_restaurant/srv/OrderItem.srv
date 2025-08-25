@@ -1,0 +1,5 @@
+string name
+string category
+string size
+string[] extras
+float32 price

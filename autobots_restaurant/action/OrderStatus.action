@@ -1,0 +1,13 @@
+# Goal
+string order_id
+
+---
+# Result
+bool completed
+string final_status
+
+---
+# Feedback
+string status
+float32 progress_percentage
+float32 time_remaining
